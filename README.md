@@ -8,4 +8,4 @@ Getting the message "Sorry, something went wrong. Reload?" when viewing an *.ipy
 Try to open that notebook that you want using nbviewer online, you don't need to install it.
 
  - Open "https://nbviewer.jupyter.org/"
- - Paste the link to your notebook, (e.g. "https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb") there and then you get "http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb"
+ - Paste the link to your notebook, (e.g. "https://github.com/Vishwa-Patel-2405/The-Sparks-Foundation-Tasks/blob/main/Other%20Domain%20Tasks/Task-1_Optical_Character_Recognition.ipynb") there and then you get "https://nbviewer.jupyter.org/github/Vishwa-Patel-2405/The-Sparks-Foundation-Tasks/blob/main/Other%20Domain%20Tasks/Task-1_Optical_Character_Recognition.ipynb"
