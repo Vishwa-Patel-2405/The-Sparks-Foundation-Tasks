@@ -4,5 +4,11 @@ If anyone is getting this message while loading the task .ipynb file "Sorry, som
 
 Try to open that notebook that you want using nbviewer online, you don't need to install it.
 
+[1] This is for Task1 of Computer Vision & IOT : 
  - Open "https://nbviewer.jupyter.org/"
  - Paste the link to your notebook, (e.g. "https://github.com/Vishwa-Patel-2405/The-Sparks-Foundation-Tasks/blob/main/Other%20Domain%20Tasks/Task-1_Optical_Character_Recognition.ipynb") there and then you get "https://nbviewer.jupyter.org/github/Vishwa-Patel-2405/The-Sparks-Foundation-Tasks/blob/main/Other%20Domain%20Tasks/Task-1_Optical_Character_Recognition.ipynb"
+
+
+[2] This is for Task2 of Computer Vision & IOT : 
+ - Open "https://nbviewer.jupyter.org/"
+ - Paste the link to your notebook, (e.g. "https://github.com/Vishwa-Patel-2405/The-Sparks-Foundation-Tasks/blob/main/Other%20Domain%20Tasks/Task-2_Color_Identification_In_Images.ipynb") there and then you get "https://nbviewer.jupyter.org/github/Vishwa-Patel-2405/The-Sparks-Foundation-Tasks/blob/main/Other%20Domain%20Tasks/Task-2_Color_Identification_In_Images.ipynb"
